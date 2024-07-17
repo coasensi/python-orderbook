@@ -14,7 +14,7 @@ The information needed to complete an order is the following:
 
 **maker** *(True for a limit order, False for a market order)*
 
-You can create your own orderbook using the * *exemple* * variable as illustrated at the end of the py file.
+You can create your own orderbook using the *exemple* variable as illustrated at the end of the py file.
 
 This is a school project that I am trying to expand into something *cooler*.
 Feel free to provide any recommendation.
