@@ -2,17 +2,17 @@ This is an automated Python orderbook that allows you to create and delete order
 It was created using pandas, datetime and random libraries.
 The information needed to complete an order is the following: 
 
-  trader name
-  
-  timestamp
-  
-  type (buy/sell)
-  
-  price
-  
-  amount
-  
-  maker (True for a limit order, False for a market order)
+      trader name
+      
+      timestamp
+      
+      type (buy/sell)
+      
+      price
+      
+      amount
+      
+      maker (True for a limit order, False for a market order)
 
 You can create your own orderbook using the "exemple" variable as illustrated at the end of the py file.
 
