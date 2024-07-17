@@ -2,7 +2,7 @@ This is an automated Python orderbook that allows you to create and delete order
 It was created using pandas, datetime and random libraries.
 The information needed to complete an order is the following: 
 
-trader name
+# trader name
 
 timestamp
 
