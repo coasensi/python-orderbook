@@ -1,5 +1,7 @@
 This is an automated Python orderbook that allows you to create and delete orders as on a financial market.
+
 It was created using **pandas**, datetime and random libraries.
+
 The information needed to complete an order is the following: 
 
 **trader name**
