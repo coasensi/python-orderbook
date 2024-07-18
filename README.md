@@ -12,7 +12,7 @@ The information needed to complete an order is the following:
 
 **price**
 
-**amount**
+**size**
 
 **maker** *(True for a limit order, False for a market order)*
 
